@@ -5,5 +5,5 @@ Breast-NET: A Lightweight DCNN model for Breast Cancer Detection and Grading Usi
 	<br>
 	<em>Graphical abstract of our proposed Breast-NET model.</em>
 </p>
-If you find our work useful, can cite our paper using:
+
 
