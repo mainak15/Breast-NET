@@ -22,7 +22,7 @@ from tensorflow.keras.regularizers import l2
 train_data_dir =  'Dataset/train'
 valid_data_dir = 'Dataset/val'
 
-batch_size=1024
+batch_size=8
 
 checkpointer = ModelCheckpoint(
     filepath=os.path.join('Dataset', 'checkpoints', 'IDCResNet50.hdf5'),
